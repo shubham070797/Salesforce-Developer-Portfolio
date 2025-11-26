@@ -48,17 +48,6 @@ End‑to‑end CRM solution for lead tracking, follow‑ups & notification autom
 
 ---
 
-### 🔗 REST API Integration (Salesforce)
-
-External REST API callout integration using Apex callouts with JSON
-
-* Named credentials & security setup
-* Error handling, future & queueable apex
-
-🔗 Repository: `salesforce-rest-api-integration`
-
----
-
 ## 📈 GitHub Activity Goals
 
 * Add weekly code commits
