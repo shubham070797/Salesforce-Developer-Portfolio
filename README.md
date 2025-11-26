@@ -60,7 +60,7 @@ End‑to‑end CRM solution for lead tracking, follow‑ups & notification autom
 ## 🤝 Connect With Me
 
 📩 **Email:** [mrudangwarshubham19@gmail.com] </br>
-🔗 **LinkedIn:** www.linkedin.com/in/shubham-mrudangwar
+🔗 **LinkedIn:** www.linkedin.com/in/shubham-mrudangwar</br>
 💼 **Naukri Profile:** (http://naukri.com/mnjuser/profile-Shubham-Mrudangwar)
 
 ---
