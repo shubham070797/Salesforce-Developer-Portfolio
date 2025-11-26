@@ -61,7 +61,7 @@ End‑to‑end CRM solution for lead tracking, follow‑ups & notification autom
 
 📩 **Email:** [mrudangwarshubham19@gmail.com]
 🔗 **LinkedIn:** www.linkedin.com/in/shubham-mrudangwar
-💼 **Naukri Profile:** (Add link)
+💼 **Naukri Profile:** (http://naukri.com/mnjuser/profile-Shubham-Mrudangwar)
 
 ---
 
