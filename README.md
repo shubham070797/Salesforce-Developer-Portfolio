@@ -70,7 +70,7 @@ External REST API callout integration using Apex callouts with JSON
 
 ## 🤝 Connect With Me
 
-📩 **Email:** [your-email@gmail.com](mrudangwarshubham19@gmail.com)
+📩 **Email:** [mrudangwarshubham19@gmail.com]
 🔗 **LinkedIn:** www.linkedin.com/in/shubham-mrudangwar
 💼 **Naukri Profile:** (Add link)
 
